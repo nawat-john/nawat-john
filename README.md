@@ -15,7 +15,7 @@
 - 🐱 Powered by **cats** and **coffee**
 - 🌱 Currently leveling up across full-stack and ML engineering
 
-> ⚠️ My main account is temporarily suspended — using this one as my primary for now until it's reinstated.
+> ⚠️ My main account is temporarily suspended — using this one as my primary for now until it's reinstated. (Maybe forever lol)
 
 ---
 
