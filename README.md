@@ -5,6 +5,10 @@
   Building things with AI, the web, and a lot of coffee ☕
 </p>
 
+<p align="center">
+  <a href="https://nawat-john.github.io/"><img src="https://img.shields.io/badge/Portfolio-nawat--john.github.io-E8478A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -55,6 +59,7 @@
 
 ### 📫 Reach Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-nawat--john.github.io-E8478A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nawat-john.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawatpim@gmail.com)
 ![Discord](https://img.shields.io/badge/Discord-mooooom-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
