@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nawat-john.github.io/"><img src="https://img.shields.io/badge/Portfolio-nawat--john.github.io-E8478A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://nawat-john.github.io/"><img src="https://img.shields.io/badge/Portfolio-nawatpim.com-E8478A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
